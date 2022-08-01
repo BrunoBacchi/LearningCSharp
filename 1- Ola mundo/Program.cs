@@ -6,7 +6,7 @@ class Programa
     {
         Console.WriteLine("Olá, mundo!");
         Console.WriteLine("Tecle enter para fechar ...");
-        Console.WriteLine();
+        Console.ReadLine();
     }
 }
 
